@@ -1,0 +1,5 @@
+threads=2
+workmem=6000
+tilim=7200
+epopt=0.0001
+epgap = 0.0001
