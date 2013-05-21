@@ -1,0 +1,14 @@
+[PROJECT]
+
+[RP:PHORUMGAMS]
+1=
+
+[OPENWINDOW_1]
+FILE0=C:\Users\rlueken\Dropbox\EPP\Research\PHORUM\Allison PHORUM\PHORUMGAMS.gms
+FILE1=C:\Users\rlueken\Dropbox\EPP\Research\PHORUM\Allison PHORUM\PHORUMGAMS.lst
+FILE2=C:\Users\rlueken\Dropbox\EPP\Research\PHORUM\Allison PHORUM\PHORUMGAMS.lst
+MAXIM=0
+TOP=25
+LEFT=25
+HEIGHT=457
+WIDTH=1076
